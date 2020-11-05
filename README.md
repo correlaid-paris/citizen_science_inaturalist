@@ -1,1 +1,3 @@
-# citizen_science_inaturalist
+# citizen science inaturalist repository 
+
+Here is the draft repository for sharing work versions of our notebooks. 
