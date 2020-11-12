@@ -8,10 +8,13 @@ Here is the draft repository for sharing work versions of our notebooks.
 
 # meetings 
 
+11.11.20 3rd meeting on notebooks 
+
 20.10.20  Kick/off meeting 
 
+The notes are here https://pad.correlaid.org/S6IJ-NPlSR2JeDcLwXwZaQ?edit
 
-Context: 
+# context: 
 Citizen science is often called a future science. 
 
 We aim at this project 
