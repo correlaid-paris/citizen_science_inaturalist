@@ -90,8 +90,8 @@ def download_observations(project_id, save_name, save_path='../data/raw/observat
             # Some data processing of location
             if result['location']:
                 coords = list(result['location'].split(','))
-                lon = coords[0]
-                lat = coords[1]
+                lon = coords[1]
+                lat = coords[0]
             else:
                 lon = None
                 lat = None
