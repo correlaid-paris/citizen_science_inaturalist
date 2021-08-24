@@ -14,6 +14,8 @@ Here is the draft repository for sharing work versions of our notebooks.
 
 The notes are here https://pad.correlaid.org/S6IJ-NPlSR2JeDcLwXwZaQ?edit
 
+1.03.21 Official end of the project, however project continues with presentation at CS conference and paper writing
+
 # context: 
 Citizen science is often called a future science. 
 
