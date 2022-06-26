@@ -7,6 +7,7 @@ Here is the draft repository for sharing work versions of our notebooks.
 
 
 # meetings 
+The project is finalised and we are working on the project report..
 
 11.11.20 3rd meeting on notebooks 
 
